@@ -37,6 +37,8 @@ gem 'sdoc', '0.4.0',          group: :doc
 gem 'spring',        group: :development
 
 gem 'rails_serve_static_assets'
+
+gem 'devise', '3.4.1'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
